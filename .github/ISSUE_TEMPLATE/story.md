@@ -14,3 +14,7 @@ assignees: ''
 ** Busines metric **
 
 ** Decisions **
+
+When picked up
+
+** Privacy concerns **
